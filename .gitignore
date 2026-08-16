@@ -1,0 +1,8 @@
+translator-env/
+__pycache__/
+build/
+dist/
+
+saved_presets.txt
+settings.txt
+script_list.txt
