@@ -25,6 +25,6 @@ The python files 'overlay.py', 'key_handler.py' and 'ocr_sort.py' are written by
 
 'ocr_sort.py' turned out to be so much more complicated than I thought, and I was tired and wanted to get a working 'version 1' out, so I decided to generate it.
 
-similarly to 'overlay.py', 'set_region' uses some advanced tkinter shenanigans which would've added like an hour of development time.
+similarly to 'overlay.py', 'set_region' uses some advanced tkinter shenanigans which would've added a lot of development time.
 
 However 90% of main.py is written by hand by myself, and I thought of all the architecture and structure of the program myself.
