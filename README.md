@@ -1,8 +1,6 @@
 # Ingmars Chat Translator
 
-## How to use the app
-The latest release should have a version specific tutorial. \n
-Otherwise a version can be found here: 
+## [How to use the app](docs/how-to-guide.pdf)
 
 ## To recreate the environment
 Clone the project with `git clone https://github.com/IngmarEissfeldt/ingmars_chat_translator.git`
