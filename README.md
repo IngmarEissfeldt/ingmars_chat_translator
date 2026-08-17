@@ -1,7 +1,7 @@
 # Ingmars Chat Translator
 
 ## How to use the app
-The latest release should have a version specific tutorial
+The latest release should have a version specific tutorial. \n
 Otherwise a version can be found here: 
 
 ## To recreate the environment
