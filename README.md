@@ -1,6 +1,6 @@
 # Ingmars Chat Translator
 
-## [How to use the app](ingmareissfeldt.github.io/ingmars_translator_app/docs/translator_tutorial_v1.pdf)
+## [How to use the app](https://ingmareissfeldt.github.io/ingmars_chat_translator/translator_tutorial_v1.pdf)
 
 ## To recreate the environment
 Clone the project with `git clone https://github.com/IngmarEissfeldt/ingmars_chat_translator.git`
