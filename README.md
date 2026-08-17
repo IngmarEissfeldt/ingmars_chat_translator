@@ -5,7 +5,7 @@
 ## To recreate the environment
 Clone the project with `git clone https://github.com/IngmarEissfeldt/ingmars_chat_translator.git`
 
-Go into the clone project folder with `cd ingmars_chat_translator`
+Go into the cloned project folder with `cd ingmars_chat_translator`
 
 Create your environment with `python -m venv translator-env`
 
