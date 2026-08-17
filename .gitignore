@@ -6,3 +6,4 @@ dist/
 saved_presets.txt
 settings.txt
 script_list.txt
+*.pdf
